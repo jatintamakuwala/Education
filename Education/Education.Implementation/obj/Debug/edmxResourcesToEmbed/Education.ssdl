@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EducationModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="EducationModelStoreContainer">
+    <EntitySet Name="ClassMst" EntityType="EducationModel.Store.ClassMst" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Professor" EntityType="EducationModel.Store.Professor" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Student" EntityType="EducationModel.Store.Student" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_Professor_ClassMst" Association="EducationModel.Store.FK_Professor_ClassMst">
+      <End Role="ClassMst" EntitySet="ClassMst" />
+      <End Role="Professor" EntitySet="Professor" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Student_ClassMst" Association="EducationModel.Store.FK_Student_ClassMst">
+      <End Role="ClassMst" EntitySet="ClassMst" />
+      <End Role="Student" EntitySet="Student" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="ClassMst">
+    <Key>
+      <PropertyRef Name="ClassMstID" />
+    </Key>
+    <Property Name="ClassMstID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ClassMstName" Type="varchar" Nullable="false" MaxLength="150" />
+  </EntityType>
+  <EntityType Name="Professor">
+    <Key>
+      <PropertyRef Name="ProfessorID" />
+    </Key>
+    <Property Name="ProfessorID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="varchar" Nullable="false" MaxLength="75" />
+    <Property Name="LastName" Type="varchar" MaxLength="100" />
+    <Property Name="ClassMstID" Type="bigint" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="StudentID" />
+    </Key>
+    <Property Name="StudentID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="varchar" Nullable="false" MaxLength="75" />
+    <Property Name="LastName" Type="varchar" MaxLength="100" />
+    <Property Name="ClassMstID" Type="bigint" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Professor_ClassMst">
+    <End Role="ClassMst" Type="EducationModel.Store.ClassMst" Multiplicity="1" />
+    <End Role="Professor" Type="EducationModel.Store.Professor" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ClassMst">
+        <PropertyRef Name="ClassMstID" />
+      </Principal>
+      <Dependent Role="Professor">
+        <PropertyRef Name="ClassMstID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Student_ClassMst">
+    <End Role="ClassMst" Type="EducationModel.Store.ClassMst" Multiplicity="1" />
+    <End Role="Student" Type="EducationModel.Store.Student" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ClassMst">
+        <PropertyRef Name="ClassMstID" />
+      </Principal>
+      <Dependent Role="Student">
+        <PropertyRef Name="ClassMstID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,22 @@
+﻿@model Education.Implementation.ClassMst
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>ClassMst</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.ClassMstName)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ClassMstName)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.ClassMstID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

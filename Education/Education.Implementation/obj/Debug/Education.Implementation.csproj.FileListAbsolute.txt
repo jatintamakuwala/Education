@@ -1,0 +1,48 @@
+C:\Users\Admin\Desktop\Education\Education\Education.Implementation\obj\Debug\Education.Implementation.Properties.Resources.resources
+C:\Users\Admin\Desktop\Education\Education\Education.Implementation\obj\Debug\Education.Implementation.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Education\Education\Education.Implementation\bin\Debug\Education.Implementation.pdb
+C:\Users\Admin\Desktop\Education\Education\Education.Implementation\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Education\Education\Education.Implementation\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Education\Education\Education.Implementation\obj\Debug\Education.Implementation.pdb
+C:\Users\Admin\Desktop\Education\Education\Education.Implementation\bin\Debug\Education.Implementation.dll.config
+C:\Users\Admin\Desktop\Education\Education\Education.Implementation\bin\Debug\Education.Implementation.dll
+C:\Users\Admin\Desktop\Education\Education\Education.Implementation\obj\Debug\Education.Implementation.dll
+C:\Users\Admin\Desktop\Education\Education\Education.Implementation\obj\Debug\Education.Implementation.csprojResolveAssemblyReference.cache
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education.Implementation\bin\Debug\Education.Implementation.dll.config
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education.Implementation\bin\Debug\Education.Implementation.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education.Implementation\bin\Debug\Education.Implementation.pdb
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education.Implementation\bin\Debug\EntityFramework.xml
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education.Implementation\obj\Debug\Education.Implementation.csprojResolveAssemblyReference.cache
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education.Implementation\obj\Debug\Education.Implementation.Properties.Resources.resources
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education.Implementation\obj\Debug\Education.Implementation.csproj.GenerateResource.Cache
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education.Implementation\obj\Debug\Education.Implementation.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education.Implementation\obj\Debug\Education.Implementation.pdb
+C:\Users\mypc\Desktop\BIn\Education\Education\Education.Implementation\bin\Debug\Education.Implementation.dll.config
+C:\Users\mypc\Desktop\BIn\Education\Education\Education.Implementation\bin\Debug\Education.Implementation.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education.Implementation\bin\Debug\Education.Implementation.pdb
+C:\Users\mypc\Desktop\BIn\Education\Education\Education.Implementation\bin\Debug\EntityFramework.xml
+C:\Users\mypc\Desktop\BIn\Education\Education\Education.Implementation\obj\Debug\Education.Implementation.csprojResolveAssemblyReference.cache
+C:\Users\mypc\Desktop\BIn\Education\Education\Education.Implementation\obj\Debug\Education.Implementation.Properties.Resources.resources
+C:\Users\mypc\Desktop\BIn\Education\Education\Education.Implementation\obj\Debug\Education.Implementation.csproj.GenerateResource.Cache
+C:\Users\mypc\Desktop\BIn\Education\Education\Education.Implementation\obj\Debug\Education.Implementation.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education.Implementation\obj\Debug\Education.Implementation.pdb
+D:\Development\Education\Education\Education\Education.Implementation\bin\Debug\Education.Implementation.dll.config
+D:\Development\Education\Education\Education\Education.Implementation\bin\Debug\Education.Implementation.dll
+D:\Development\Education\Education\Education\Education.Implementation\bin\Debug\Education.Implementation.pdb
+D:\Development\Education\Education\Education\Education.Implementation\bin\Debug\EntityFramework.xml
+D:\Development\Education\Education\Education\Education.Implementation\obj\Debug\Education.Implementation.csprojResolveAssemblyReference.cache
+D:\Development\Education\Education\Education\Education.Implementation\obj\Debug\Education.Implementation.Properties.Resources.resources
+D:\Development\Education\Education\Education\Education.Implementation\obj\Debug\Education.Implementation.csproj.GenerateResource.Cache
+D:\Development\Education\Education\Education\Education.Implementation\obj\Debug\Education.Implementation.dll
+D:\Development\Education\Education\Education\Education.Implementation\obj\Debug\Education.Implementation.pdb
+D:\Development\Education\Education\Education\Education.Implementation\bin\Debug\EntityFramework.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education.Implementation\bin\Debug\Education.Implementation.dll.config
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education.Implementation\bin\Debug\Education.Implementation.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education.Implementation\bin\Debug\Education.Implementation.pdb
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education.Implementation\bin\Debug\EntityFramework.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education.Implementation\bin\Debug\EntityFramework.xml
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education.Implementation\obj\Debug\Education.Implementation.csprojResolveAssemblyReference.cache
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education.Implementation\obj\Debug\Education.Implementation.Properties.Resources.resources
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education.Implementation\obj\Debug\Education.Implementation.csproj.GenerateResource.Cache
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education.Implementation\obj\Debug\Education.Implementation.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education.Implementation\obj\Debug\Education.Implementation.pdb

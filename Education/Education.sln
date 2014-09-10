@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Education", "Education\Education.csproj", "{8D666D5B-1E1F-45D0-A638-E61DFA0AF491}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Education.Implementation", "Education.Implementation\Education.Implementation.csproj", "{51A6EE59-9BE1-4659-8FCB-11C6958B417D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{07966863-273C-4483-8117-3EFB4D7B19B0}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D666D5B-1E1F-45D0-A638-E61DFA0AF491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D666D5B-1E1F-45D0-A638-E61DFA0AF491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D666D5B-1E1F-45D0-A638-E61DFA0AF491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D666D5B-1E1F-45D0-A638-E61DFA0AF491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51A6EE59-9BE1-4659-8FCB-11C6958B417D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51A6EE59-9BE1-4659-8FCB-11C6958B417D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51A6EE59-9BE1-4659-8FCB-11C6958B417D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51A6EE59-9BE1-4659-8FCB-11C6958B417D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.2\lib\NET35
+	EndGlobalSection
+EndGlobal

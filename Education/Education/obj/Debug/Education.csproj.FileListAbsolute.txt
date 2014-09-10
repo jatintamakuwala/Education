@@ -1,0 +1,548 @@
+C:\Users\Admin\Desktop\Education\Education\Education\bin\Education.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\Education.pdb
+C:\Users\Admin\Desktop\Education\Education\Education\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\DotNetOpenAuth.Core.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\Microsoft.Data.Edm.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\Microsoft.Data.OData.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\System.Spatial.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\System.Web.Http.OData.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\WebMatrix.Data.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\WebMatrix.WebData.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Education\Education\Education\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Education\Education\Education\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\Education\Education\Education\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Education\Education\Education\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\Education\Education\Education\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\Education\Education\Education\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Education\Education\Education\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Education\Education\Education\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Education\Education\Education\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Education\Education\Education\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Education\Education\Education\bin\WebMatrix.Data.xml
+C:\Users\Admin\Desktop\Education\Education\Education\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Admin\Desktop\Education\Education\Education\bin\WebMatrix.WebData.xml
+C:\Users\Admin\Desktop\Education\Education\Education\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Admin\Desktop\Education\Education\Education\bin\DotNetOpenAuth.Core.xml
+C:\Users\Admin\Desktop\Education\Education\Education\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Admin\Desktop\Education\Education\Education\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Admin\Desktop\Education\Education\Education\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Admin\Desktop\Education\Education\Education\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Admin\Desktop\Education\Education\Education\bin\System.Web.Http.OData.xml
+C:\Users\Admin\Desktop\Education\Education\Education\bin\Microsoft.Data.Edm.xml
+C:\Users\Admin\Desktop\Education\Education\Education\bin\Microsoft.Data.OData.xml
+C:\Users\Admin\Desktop\Education\Education\Education\bin\System.Spatial.xml
+C:\Users\Admin\Desktop\Education\Education\Education\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\de\System.Spatial.resources.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\es\System.Spatial.resources.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\fr\System.Spatial.resources.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\it\System.Spatial.resources.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\ja\System.Spatial.resources.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\ko\System.Spatial.resources.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\ru\System.Spatial.resources.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Admin\Desktop\Education\Education\Education\obj\Debug\Education.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Education\Education\Education\obj\Debug\Education.dll
+C:\Users\Admin\Desktop\Education\Education\Education\obj\Debug\Education.pdb
+C:\Users\Admin\Desktop\Education\Education\Education\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\Microsoft.Practices.Unity.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\Unity.Mvc4.dll
+C:\Users\Admin\Desktop\Education\Education\Education\bin\Education.Implementation.pdb
+C:\Users\Admin\Desktop\Education\Education\Education\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Admin\Desktop\Education\Education\Education\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Admin\Desktop\Education\Education\Education\bin\Microsoft.Practices.Unity.xml
+C:\Users\Admin\Desktop\Education\Education\Education\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Admin\Desktop\Education\Education\Education\bin\Education.Implementation.dll
+E:\Development\EducationNew\Education\Education\bin\Education.dll
+E:\Development\EducationNew\Education\Education\bin\Education.pdb
+E:\Development\EducationNew\Education\Education\bin\Antlr3.Runtime.dll
+E:\Development\EducationNew\Education\Education\bin\DotNetOpenAuth.AspNet.dll
+E:\Development\EducationNew\Education\Education\bin\DotNetOpenAuth.Core.dll
+E:\Development\EducationNew\Education\Education\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Development\EducationNew\Education\Education\bin\DotNetOpenAuth.OAuth.dll
+E:\Development\EducationNew\Education\Education\bin\DotNetOpenAuth.OpenId.dll
+E:\Development\EducationNew\Education\Education\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Development\EducationNew\Education\Education\bin\Education.Implementation.dll
+E:\Development\EducationNew\Education\Education\bin\EntityFramework.dll
+E:\Development\EducationNew\Education\Education\bin\Microsoft.Data.Edm.dll
+E:\Development\EducationNew\Education\Education\bin\Microsoft.Data.OData.dll
+E:\Development\EducationNew\Education\Education\bin\Microsoft.Practices.ServiceLocation.dll
+E:\Development\EducationNew\Education\Education\bin\Microsoft.Practices.Unity.Configuration.dll
+E:\Development\EducationNew\Education\Education\bin\Microsoft.Practices.Unity.dll
+E:\Development\EducationNew\Education\Education\bin\Microsoft.Web.Infrastructure.dll
+E:\Development\EducationNew\Education\Education\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Development\EducationNew\Education\Education\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Development\EducationNew\Education\Education\bin\Newtonsoft.Json.dll
+E:\Development\EducationNew\Education\Education\bin\System.Net.Http.Formatting.dll
+E:\Development\EducationNew\Education\Education\bin\System.Spatial.dll
+E:\Development\EducationNew\Education\Education\bin\System.Web.Helpers.dll
+E:\Development\EducationNew\Education\Education\bin\System.Web.Http.dll
+E:\Development\EducationNew\Education\Education\bin\System.Web.Http.OData.dll
+E:\Development\EducationNew\Education\Education\bin\System.Web.Http.WebHost.dll
+E:\Development\EducationNew\Education\Education\bin\System.Web.Mvc.dll
+E:\Development\EducationNew\Education\Education\bin\System.Web.Optimization.dll
+E:\Development\EducationNew\Education\Education\bin\System.Web.Razor.dll
+E:\Development\EducationNew\Education\Education\bin\System.Web.WebPages.Deployment.dll
+E:\Development\EducationNew\Education\Education\bin\System.Web.WebPages.dll
+E:\Development\EducationNew\Education\Education\bin\System.Web.WebPages.Razor.dll
+E:\Development\EducationNew\Education\Education\bin\Unity.Mvc4.dll
+E:\Development\EducationNew\Education\Education\bin\WebGrease.dll
+E:\Development\EducationNew\Education\Education\bin\WebMatrix.Data.dll
+E:\Development\EducationNew\Education\Education\bin\WebMatrix.WebData.dll
+E:\Development\EducationNew\Education\Education\bin\Education.Implementation.pdb
+E:\Development\EducationNew\Education\Education\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\Development\EducationNew\Education\Education\bin\Microsoft.Practices.ServiceLocation.xml
+E:\Development\EducationNew\Education\Education\bin\Microsoft.Practices.Unity.xml
+E:\Development\EducationNew\Education\Education\bin\Microsoft.Practices.Unity.Configuration.xml
+E:\Development\EducationNew\Education\Education\bin\EntityFramework.xml
+E:\Development\EducationNew\Education\Education\bin\Newtonsoft.Json.xml
+E:\Development\EducationNew\Education\Education\bin\System.Net.Http.Formatting.xml
+E:\Development\EducationNew\Education\Education\bin\System.Web.Helpers.xml
+E:\Development\EducationNew\Education\Education\bin\System.Web.Http.xml
+E:\Development\EducationNew\Education\Education\bin\System.Web.Http.WebHost.xml
+E:\Development\EducationNew\Education\Education\bin\System.Web.Mvc.xml
+E:\Development\EducationNew\Education\Education\bin\System.Web.Razor.xml
+E:\Development\EducationNew\Education\Education\bin\System.Web.WebPages.xml
+E:\Development\EducationNew\Education\Education\bin\System.Web.WebPages.Deployment.xml
+E:\Development\EducationNew\Education\Education\bin\System.Web.WebPages.Razor.xml
+E:\Development\EducationNew\Education\Education\bin\WebMatrix.Data.xml
+E:\Development\EducationNew\Education\Education\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Development\EducationNew\Education\Education\bin\WebMatrix.WebData.xml
+E:\Development\EducationNew\Education\Education\bin\DotNetOpenAuth.AspNet.xml
+E:\Development\EducationNew\Education\Education\bin\DotNetOpenAuth.Core.xml
+E:\Development\EducationNew\Education\Education\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Development\EducationNew\Education\Education\bin\DotNetOpenAuth.OAuth.xml
+E:\Development\EducationNew\Education\Education\bin\DotNetOpenAuth.OpenId.xml
+E:\Development\EducationNew\Education\Education\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Development\EducationNew\Education\Education\bin\System.Web.Http.OData.xml
+E:\Development\EducationNew\Education\Education\bin\Microsoft.Data.Edm.xml
+E:\Development\EducationNew\Education\Education\bin\Microsoft.Data.OData.xml
+E:\Development\EducationNew\Education\Education\bin\System.Spatial.xml
+E:\Development\EducationNew\Education\Education\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Development\EducationNew\Education\Education\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Development\EducationNew\Education\Education\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Development\EducationNew\Education\Education\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Development\EducationNew\Education\Education\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Development\EducationNew\Education\Education\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Development\EducationNew\Education\Education\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Development\EducationNew\Education\Education\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Development\EducationNew\Education\Education\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Development\EducationNew\Education\Education\bin\de\Microsoft.Data.OData.resources.dll
+E:\Development\EducationNew\Education\Education\bin\es\Microsoft.Data.OData.resources.dll
+E:\Development\EducationNew\Education\Education\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Development\EducationNew\Education\Education\bin\it\Microsoft.Data.OData.resources.dll
+E:\Development\EducationNew\Education\Education\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Development\EducationNew\Education\Education\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Development\EducationNew\Education\Education\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Development\EducationNew\Education\Education\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Development\EducationNew\Education\Education\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Development\EducationNew\Education\Education\bin\de\System.Spatial.resources.dll
+E:\Development\EducationNew\Education\Education\bin\es\System.Spatial.resources.dll
+E:\Development\EducationNew\Education\Education\bin\fr\System.Spatial.resources.dll
+E:\Development\EducationNew\Education\Education\bin\it\System.Spatial.resources.dll
+E:\Development\EducationNew\Education\Education\bin\ja\System.Spatial.resources.dll
+E:\Development\EducationNew\Education\Education\bin\ko\System.Spatial.resources.dll
+E:\Development\EducationNew\Education\Education\bin\ru\System.Spatial.resources.dll
+E:\Development\EducationNew\Education\Education\bin\zh-Hans\System.Spatial.resources.dll
+E:\Development\EducationNew\Education\Education\bin\zh-Hant\System.Spatial.resources.dll
+E:\Development\EducationNew\Education\Education\obj\Debug\Education.csprojResolveAssemblyReference.cache
+E:\Development\EducationNew\Education\Education\obj\Debug\Education.dll
+E:\Development\EducationNew\Education\Education\obj\Debug\Education.pdb
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\Education.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\Education.pdb
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\Education.Implementation.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\Newtonsoft.Json.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\System.Net.Http.Formatting.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\System.Web.Helpers.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\System.Web.Http.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\System.Web.Http.WebHost.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\System.Web.Mvc.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\System.Web.Razor.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\System.Web.WebPages.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\System.Web.WebPages.Razor.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\WebMatrix.Data.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\WebMatrix.WebData.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\Education.Implementation.pdb
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\Microsoft.Practices.Unity.xml
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\EntityFramework.xml
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\System.Net.Http.Formatting.xml
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\System.Web.Helpers.xml
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\System.Web.Http.xml
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\System.Web.Http.WebHost.xml
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\System.Web.Mvc.xml
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\System.Web.Razor.xml
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\System.Web.WebPages.xml
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\System.Web.WebPages.Razor.xml
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\WebMatrix.Data.xml
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\WebMatrix.WebData.xml
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\DotNetOpenAuth.Core.xml
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\System.Web.Http.OData.xml
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\Microsoft.Data.Edm.xml
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\Microsoft.Data.OData.xml
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\System.Spatial.xml
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\de\System.Spatial.resources.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\es\System.Spatial.resources.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\fr\System.Spatial.resources.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\it\System.Spatial.resources.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\ja\System.Spatial.resources.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\ko\System.Spatial.resources.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\ru\System.Spatial.resources.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\obj\Debug\Education.csprojResolveAssemblyReference.cache
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\obj\Debug\Education.dll
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\obj\Debug\Education.pdb
+C:\Users\mypc\Desktop\BIn\EducationNew Raj\Education\Education\bin\Newtonsoft.Json.xml
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\Education.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\Education.pdb
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\Education.Implementation.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\Newtonsoft.Json.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\System.Net.Http.Formatting.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\System.Web.Helpers.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\System.Web.Http.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\System.Web.Http.WebHost.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\System.Web.Mvc.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\System.Web.Razor.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\System.Web.WebPages.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\System.Web.WebPages.Razor.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\WebMatrix.Data.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\WebMatrix.WebData.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\Education.Implementation.pdb
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\Microsoft.Practices.Unity.xml
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\Newtonsoft.Json.xml
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\EntityFramework.xml
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\System.Net.Http.Formatting.xml
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\System.Web.Helpers.xml
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\System.Web.Http.xml
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\System.Web.Http.WebHost.xml
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\System.Web.Mvc.xml
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\System.Web.Razor.xml
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\System.Web.WebPages.xml
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\System.Web.WebPages.Razor.xml
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\WebMatrix.Data.xml
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\WebMatrix.WebData.xml
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\DotNetOpenAuth.Core.xml
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\System.Web.Http.OData.xml
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\Microsoft.Data.Edm.xml
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\Microsoft.Data.OData.xml
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\System.Spatial.xml
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\de\System.Spatial.resources.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\es\System.Spatial.resources.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\fr\System.Spatial.resources.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\it\System.Spatial.resources.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\ja\System.Spatial.resources.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\ko\System.Spatial.resources.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\ru\System.Spatial.resources.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\obj\Debug\Education.csprojResolveAssemblyReference.cache
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\obj\Debug\Education.dll
+C:\Users\mypc\Desktop\BIn\Education\Education\Education\obj\Debug\Education.pdb
+D:\Development\Education\Education\Education\Education\obj\Debug\Education.csprojResolveAssemblyReference.cache
+D:\Development\Education\Education\Education\Education\obj\Debug\Education.dll
+D:\Development\Education\Education\Education\Education\bin\Education.dll
+D:\Development\Education\Education\Education\Education\bin\Education.pdb
+D:\Development\Education\Education\Education\Education\bin\Antlr3.Runtime.dll
+D:\Development\Education\Education\Education\Education\bin\DotNetOpenAuth.AspNet.dll
+D:\Development\Education\Education\Education\Education\bin\DotNetOpenAuth.Core.dll
+D:\Development\Education\Education\Education\Education\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Development\Education\Education\Education\Education\bin\DotNetOpenAuth.OAuth.dll
+D:\Development\Education\Education\Education\Education\bin\DotNetOpenAuth.OpenId.dll
+D:\Development\Education\Education\Education\Education\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Development\Education\Education\Education\Education\bin\Education.Implementation.dll
+D:\Development\Education\Education\Education\Education\bin\EntityFramework.dll
+D:\Development\Education\Education\Education\Education\bin\Microsoft.Data.Edm.dll
+D:\Development\Education\Education\Education\Education\bin\Microsoft.Data.OData.dll
+D:\Development\Education\Education\Education\Education\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Development\Education\Education\Education\Education\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Development\Education\Education\Education\Education\bin\Microsoft.Practices.Unity.dll
+D:\Development\Education\Education\Education\Education\bin\Microsoft.Practices.Unity.Mvc.dll
+D:\Development\Education\Education\Education\Education\bin\Microsoft.Web.Infrastructure.dll
+D:\Development\Education\Education\Education\Education\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Development\Education\Education\Education\Education\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Development\Education\Education\Education\Education\bin\Newtonsoft.Json.dll
+D:\Development\Education\Education\Education\Education\bin\System.Net.Http.Formatting.dll
+D:\Development\Education\Education\Education\Education\bin\System.Spatial.dll
+D:\Development\Education\Education\Education\Education\bin\System.Web.Helpers.dll
+D:\Development\Education\Education\Education\Education\bin\System.Web.Http.dll
+D:\Development\Education\Education\Education\Education\bin\System.Web.Http.OData.dll
+D:\Development\Education\Education\Education\Education\bin\System.Web.Http.WebHost.dll
+D:\Development\Education\Education\Education\Education\bin\System.Web.Mvc.dll
+D:\Development\Education\Education\Education\Education\bin\System.Web.Optimization.dll
+D:\Development\Education\Education\Education\Education\bin\System.Web.Razor.dll
+D:\Development\Education\Education\Education\Education\bin\System.Web.WebPages.Deployment.dll
+D:\Development\Education\Education\Education\Education\bin\System.Web.WebPages.dll
+D:\Development\Education\Education\Education\Education\bin\System.Web.WebPages.Razor.dll
+D:\Development\Education\Education\Education\Education\bin\Unity.Mvc4.dll
+D:\Development\Education\Education\Education\Education\bin\WebActivatorEx.dll
+D:\Development\Education\Education\Education\Education\bin\WebGrease.dll
+D:\Development\Education\Education\Education\Education\bin\WebMatrix.Data.dll
+D:\Development\Education\Education\Education\Education\bin\WebMatrix.WebData.dll
+D:\Development\Education\Education\Education\Education\bin\Org.Mentalis.Security.Cryptography.dll
+D:\Development\Education\Education\Education\Education\bin\Mono.Math.dll
+D:\Development\Education\Education\Education\Education\bin\Education.Implementation.pdb
+D:\Development\Education\Education\Education\Education\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Development\Education\Education\Education\Education\bin\Microsoft.Practices.ServiceLocation.xml
+D:\Development\Education\Education\Education\Education\bin\Microsoft.Practices.Unity.xml
+D:\Development\Education\Education\Education\Education\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Development\Education\Education\Education\Education\bin\Microsoft.Practices.Unity.Mvc.xml
+D:\Development\Education\Education\Education\Education\bin\Newtonsoft.Json.xml
+D:\Development\Education\Education\Education\Education\bin\System.Web.Helpers.xml
+D:\Development\Education\Education\Education\Education\bin\System.Web.Mvc.xml
+D:\Development\Education\Education\Education\Education\bin\System.Web.Razor.xml
+D:\Development\Education\Education\Education\Education\bin\System.Web.WebPages.xml
+D:\Development\Education\Education\Education\Education\bin\System.Web.WebPages.Deployment.xml
+D:\Development\Education\Education\Education\Education\bin\System.Web.WebPages.Razor.xml
+D:\Development\Education\Education\Education\Education\bin\EntityFramework.xml
+D:\Development\Education\Education\Education\Education\bin\System.Net.Http.Formatting.xml
+D:\Development\Education\Education\Education\Education\bin\System.Web.Http.xml
+D:\Development\Education\Education\Education\Education\bin\System.Web.Http.WebHost.xml
+D:\Development\Education\Education\Education\Education\bin\WebMatrix.Data.xml
+D:\Development\Education\Education\Education\Education\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Development\Education\Education\Education\Education\bin\WebMatrix.WebData.xml
+D:\Development\Education\Education\Education\Education\bin\DotNetOpenAuth.AspNet.xml
+D:\Development\Education\Education\Education\Education\bin\DotNetOpenAuth.Core.xml
+D:\Development\Education\Education\Education\Education\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Development\Education\Education\Education\Education\bin\DotNetOpenAuth.OAuth.xml
+D:\Development\Education\Education\Education\Education\bin\DotNetOpenAuth.OpenId.xml
+D:\Development\Education\Education\Education\Education\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Development\Education\Education\Education\Education\bin\System.Web.Http.OData.xml
+D:\Development\Education\Education\Education\Education\bin\Microsoft.Data.Edm.xml
+D:\Development\Education\Education\Education\Education\bin\Microsoft.Data.OData.xml
+D:\Development\Education\Education\Education\Education\bin\System.Spatial.xml
+D:\Development\Education\Education\Education\Education\bin\Org.Mentalis.Security.Cryptography.xml
+D:\Development\Education\Education\Education\Education\bin\Mono.Math.xml
+D:\Development\Education\Education\Education\Education\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Development\Education\Education\Education\Education\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Development\Education\Education\Education\Education\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Development\Education\Education\Education\Education\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Development\Education\Education\Education\Education\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Development\Education\Education\Education\Education\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Development\Education\Education\Education\Education\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Development\Education\Education\Education\Education\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Development\Education\Education\Education\Education\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Development\Education\Education\Education\Education\bin\de\Microsoft.Data.OData.resources.dll
+D:\Development\Education\Education\Education\Education\bin\es\Microsoft.Data.OData.resources.dll
+D:\Development\Education\Education\Education\Education\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Development\Education\Education\Education\Education\bin\it\Microsoft.Data.OData.resources.dll
+D:\Development\Education\Education\Education\Education\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Development\Education\Education\Education\Education\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Development\Education\Education\Education\Education\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Development\Education\Education\Education\Education\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Development\Education\Education\Education\Education\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Development\Education\Education\Education\Education\bin\de\System.Spatial.resources.dll
+D:\Development\Education\Education\Education\Education\bin\es\System.Spatial.resources.dll
+D:\Development\Education\Education\Education\Education\bin\fr\System.Spatial.resources.dll
+D:\Development\Education\Education\Education\Education\bin\it\System.Spatial.resources.dll
+D:\Development\Education\Education\Education\Education\bin\ja\System.Spatial.resources.dll
+D:\Development\Education\Education\Education\Education\bin\ko\System.Spatial.resources.dll
+D:\Development\Education\Education\Education\Education\bin\ru\System.Spatial.resources.dll
+D:\Development\Education\Education\Education\Education\bin\zh-Hans\System.Spatial.resources.dll
+D:\Development\Education\Education\Education\Education\bin\zh-Hant\System.Spatial.resources.dll
+D:\Development\Education\Education\Education\Education\obj\Debug\Education.pdb
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\Education.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\Education.pdb
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\Antlr3.Runtime.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\DotNetOpenAuth.AspNet.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\DotNetOpenAuth.Core.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\DotNetOpenAuth.OAuth.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\DotNetOpenAuth.OpenId.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\Education.Implementation.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\EntityFramework.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\Microsoft.Data.Edm.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\Microsoft.Data.OData.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\Microsoft.Practices.Unity.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\Microsoft.Web.Infrastructure.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\Newtonsoft.Json.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\System.Net.Http.Formatting.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\System.Spatial.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\System.Web.Helpers.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\System.Web.Http.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\System.Web.Http.OData.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\System.Web.Http.WebHost.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\System.Web.Mvc.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\System.Web.Optimization.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\System.Web.Razor.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\System.Web.WebPages.Deployment.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\System.Web.WebPages.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\System.Web.WebPages.Razor.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\Unity.Mvc4.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\WebActivatorEx.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\WebGrease.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\WebMatrix.Data.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\WebMatrix.WebData.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\Mono.Math.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\Education.Implementation.pdb
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\Microsoft.Practices.Unity.xml
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\Newtonsoft.Json.xml
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\System.Web.Helpers.xml
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\System.Web.Mvc.xml
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\System.Web.Razor.xml
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\System.Web.WebPages.xml
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\System.Web.WebPages.Deployment.xml
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\System.Web.WebPages.Razor.xml
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\EntityFramework.xml
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\System.Net.Http.Formatting.xml
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\System.Web.Http.xml
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\System.Web.Http.WebHost.xml
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\WebMatrix.Data.xml
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\WebMatrix.WebData.xml
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\DotNetOpenAuth.AspNet.xml
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\DotNetOpenAuth.Core.xml
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\DotNetOpenAuth.OAuth.xml
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\DotNetOpenAuth.OpenId.xml
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\System.Web.Http.OData.xml
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\Microsoft.Data.Edm.xml
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\Microsoft.Data.OData.xml
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\System.Spatial.xml
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\Mono.Math.xml
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\de\Microsoft.Data.OData.resources.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\es\Microsoft.Data.OData.resources.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\it\Microsoft.Data.OData.resources.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\de\System.Spatial.resources.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\es\System.Spatial.resources.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\fr\System.Spatial.resources.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\it\System.Spatial.resources.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\ja\System.Spatial.resources.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\ko\System.Spatial.resources.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\ru\System.Spatial.resources.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\zh-Hans\System.Spatial.resources.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\bin\zh-Hant\System.Spatial.resources.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\obj\Debug\Education.csprojResolveAssemblyReference.cache
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\obj\Debug\Education.dll
+C:\Triveni Technologies - Office Work\Development\Education\Education\Education\obj\Debug\Education.pdb

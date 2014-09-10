@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EducationModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="EducationEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="ClassMst" EntityType="EducationModel.ClassMst" />
+    <EntitySet Name="Professor" EntityType="EducationModel.Professor" />
+    <EntitySet Name="Student" EntityType="EducationModel.Student" />
+    <AssociationSet Name="FK_Professor_ClassMst" Association="EducationModel.FK_Professor_ClassMst">
+      <End Role="ClassMst" EntitySet="ClassMst" />
+      <End Role="Professor" EntitySet="Professor" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Student_ClassMst" Association="EducationModel.FK_Student_ClassMst">
+      <End Role="ClassMst" EntitySet="ClassMst" />
+      <End Role="Student" EntitySet="Student" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="ClassMst">
+    <Key>
+      <PropertyRef Name="ClassMstID" />
+    </Key>
+    <Property Name="ClassMstID" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="ClassMstName" Type="String" Nullable="false" MaxLength="150" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="Professor" Relationship="EducationModel.FK_Professor_ClassMst" FromRole="ClassMst" ToRole="Professor" />
+    <NavigationProperty Name="Student" Relationship="EducationModel.FK_Student_ClassMst" FromRole="ClassMst" ToRole="Student" />
+  </EntityType>
+  <EntityType Name="Professor">
+    <Key>
+      <PropertyRef Name="ProfessorID" />
+    </Key>
+    <Property Name="ProfessorID" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" Nullable="false" MaxLength="75" Unicode="false" FixedLength="false" />
+    <Property Name="LastName" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ClassMstID" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="ClassMst" Relationship="EducationModel.FK_Professor_ClassMst" FromRole="Professor" ToRole="ClassMst" />
+  </EntityType>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="StudentID" />
+    </Key>
+    <Property Name="StudentID" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" Nullable="false" MaxLength="75" Unicode="false" FixedLength="false" />
+    <Property Name="LastName" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ClassMstID" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="ClassMst" Relationship="EducationModel.FK_Student_ClassMst" FromRole="Student" ToRole="ClassMst" />
+  </EntityType>
+  <Association Name="FK_Professor_ClassMst">
+    <End Role="ClassMst" Type="EducationModel.ClassMst" Multiplicity="1" />
+    <End Role="Professor" Type="EducationModel.Professor" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ClassMst">
+        <PropertyRef Name="ClassMstID" />
+      </Principal>
+      <Dependent Role="Professor">
+        <PropertyRef Name="ClassMstID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Student_ClassMst">
+    <End Role="ClassMst" Type="EducationModel.ClassMst" Multiplicity="1" />
+    <End Role="Student" Type="EducationModel.Student" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ClassMst">
+        <PropertyRef Name="ClassMstID" />
+      </Principal>
+      <Dependent Role="Student">
+        <PropertyRef Name="ClassMstID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
